@@ -1,0 +1,712 @@
+Tmesinslotcoba
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Info.plist /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist
+cCompileC build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba normal i386
+cPhaseScriptExecution Run\ Script /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework
+cTouch /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000533B9F35000000000000044C
+t1396416309
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9F3500000000000001DE
+t1396416309
+s478
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c0000000053E69FDD0000000000019CF0
+t1407623133
+s105712
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000534E318E00000000000065A0
+t1397633422
+s26016
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000053E69FDF000000000249F9C0
+t1407623135
+s38402496
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000534E3163000000000000BC70
+t1397633379
+s48240
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000053E69FE200000000003E5EC0
+t1407623138
+s4087488
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000534E316800000000000066C0
+t1397633384
+s26304
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000053E69FE400000000000EFDA0
+t1407623140
+s982432
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053E69FE50000000000688600
+t1407623141
+s6850048
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000534E316C000000000000D730
+t1397633388
+s55088
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000534E316D0000000000080210
+t1397633389
+s524816
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000552B23A90000000000146020
+t1428890537
+s1335328
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000053E69FF2000000000002C960
+t1407623154
+s182624
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000540FBC3F000000000049E920
+t1410317375
+s4843808
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000540FBC0F0000000000322D20
+t1410317327
+s3288352
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app
+t1434526475
+s102
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework
+t1434526477
+s204
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Info.plist
+t1434526475
+s1096
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba
+t1434526477
+s7849380
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/PkgInfo
+t1434526475
+s8
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o
+t1434526476
+s74804
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba.LinkFileList
+c000000005581230B0000000000000163
+t1434526475
+s355
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o
+t1434526476
+s97760
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000005581230B00000000000001A5
+t1434526475
+s421
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist
+c000000005581224E000000000000029E
+t1434526286
+s670
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp
+c000000005581224E0000000000000155
+t1434526286
+s341
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp
+c000000005581224E0000000000000512
+t1434526286
+s1298
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework
+c00000000540E6E7200000000000000CC
+t1410231922
+s204
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000540E6E720000000000093570
+t1410231922
+s603504
+
+N/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworks.a
+c00000000554D72400000000001C3F818
+t1431138880
+s29620248
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8c4d0f8b5a31bb41^6c76108b5a31bb41^---0#1#1#--18"Check dependencies36"D6AD1652-51B8-4B8D-8DE9-4EF33F887682-
+
+CCompileC build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s456219275.068253
+e456219276.264624
+r1
+xCompileC
+xbuild/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/ofMain.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glew/include/GL/glew.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/tess2/include/tesselator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/File.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Foundation.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Config.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Platform.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Types.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofColor.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Mutex.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Exception.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Thread.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Runnable.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Event.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Condition.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Path.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Any.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/RegularExpression.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_codec.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_errors.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.h
+oclang: [0;1;35mwarning: [0m[1m-lpthread: 'linker' input unused[0m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp178"[1mCompileC[0m build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o [1msrc/main.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compilerc497118b5a31bb41^bebd438c5a31bb41^-70"clang: [0;1;35mwarning: [0m[1m-lpthread: 'linker' input unused[0m-0#0#1#-19%DVTDocumentLocation2@115"file:///Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp0000000000000000^3747"[1mCompileC[0m build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o [1msrc/main.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O3 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -funroll-loops -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/mesinslotcoba.hmap -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources/i386 -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.dia -c /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/main.cpp -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o36"A9721730-D682-4F25-845F-0A711C2AA794-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CCompileC build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s456219275.068689
+e456219276.284358
+r1
+xCompileC
+xbuild/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/ofMain.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glew/include/GL/glew.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/tess2/include/tesselator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/File.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Foundation.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Config.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Platform.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Types.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofColor.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Mutex.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Exception.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Thread.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Runnable.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Event.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Condition.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Path.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/Any.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/include/Poco/RegularExpression.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_codec.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/include/fmod_errors.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+oclang: [0;1;35mwarning: [0m[1m-lpthread: 'linker' input unused[0m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp180"[1mCompileC[0m build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o [1msrc/ofApp.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler91ba118b5a31bb41^decc488c5a31bb41^-70"clang: [0;1;35mwarning: [0m[1m-lpthread: 'linker' input unused[0m-0#0#1#-19%DVTDocumentLocation2@116"file:///Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp0000000000000000^3753"[1mCompileC[0m build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o [1msrc/ofApp.cpp[0m normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O3 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -funroll-loops -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/mesinslotcoba.hmap -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources/i386 -I/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.d --serialize-diagnostics /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.dia -c /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/src/ofApp.cpp -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o36"EA35B8BE-E759-45EA-A806-D17CC540C23C-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CLd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba normal i386
+s456219276.285865
+e456219276.933690
+r1
+xLd
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba
+xnormal
+xi386
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/main.o
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/ofApp.o
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoCrypto.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoData.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoDataODBC.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoDataSQLite.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoFoundation.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoNet.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoNetSSL.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoUtil.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoXML.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/poco/lib/osx/PocoZip.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/tess2/lib/osx/tess2.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glew/lib/osx/glew.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/lib/osx/cairo-script-interpreter.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/lib/osx/cairo.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/cairo/lib/osx/pixman-1.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/fmodex/lib/osx/libfmodex.dylib
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/rtAudio/lib/osx/rtAudio.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openssl/lib/osx/crypto.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openssl/lib/osx/ssl.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glfw/lib/osx/libglfw3.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/FreeImage/lib/osx/freeimage.a
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/freetype/lib/osx/freetype.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
+d/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworks.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libgcc_s.1.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Link /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba73"[1mLd[0m bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba normal i3863943498c5a31bb41^3a07ef8c5a31bb41^---0#0#1#--2730"[1mLd[0m bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba normal i386    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export MACOSX_DEPLOYMENT_TARGET=10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin -F/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/../../../libs/glut/lib/osx -filelist /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba.LinkFileList -mmacosx-version-min=10.6 -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a ../../../libs/openssl/lib/osx/crypto.a ../../../libs/openssl/lib/osx/ssl.a ../../../libs/glfw/lib/osx/libglfw3.a ../../../libs/FreeImage/lib/osx/freeimage.a ../../../libs/freetype/lib/osx/freetype.a -stdlib=libstdc++ -framework Accelerate -framework QTKit -framework GLUT /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworks.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework CoreVideo -Xlinker -dependency_info -Xlinker /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba_dependency_info.dat -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/MacOS/mesinslotcoba36"3BA0441E-8F9B-4849-BC25-FFD217FAD23C-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CPBXCp /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework
+s456219277.293722
+e456219277.473024
+r1
+xPBXCp
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework
+xbin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework173"[1mPBXCp[0m /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework3d444b8d5a31bb41^871a798d5a31bb41^-1151"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework/GLUT/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework/Versions/A/GLUT/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -S /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework/Versions/Current/GLUT -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework/Versions/Current/GLUT-0#0#1#-19%DVTDocumentLocation2@159"file:///Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework00343c45dcffdf42^756"[1mPBXCp[0m /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework bin/mesinslotcoba.app/Contents/Frameworks/GLUT.framework    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/libs/glut/lib/osx/GLUT.framework /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Frameworks36"6FFCD825-C665-4D8E-B1B8-9DF4346BAE89-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CPhaseScriptExecution Run\ Script /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s456219276.935904
+e456219277.293172
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'129"[1mPhaseScriptExecution[0m Run\ Script build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh4792f08c5a31bb41^910e4b8d5a31bb41^---0#0#1#--29272"[1mPhaseScriptExecution[0m Run\ Script build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export ACTION=build    export ALTERNATE_GROUP=staff    export ALTERNATE_MODE=u+w,go-w,a+rX    export ALTERNATE_OWNER=xcorex    export ALWAYS_SEARCH_USER_PATHS=YES    export ALWAYS_USE_SEPARATE_HEADERMAPS=YES    export APPLE_INTERNAL_DEVELOPER_DIR=/AppleInternal/Developer    export APPLE_INTERNAL_DIR=/AppleInternal    export APPLE_INTERNAL_DOCUMENTATION_DIR=/AppleInternal/Documentation    export APPLE_INTERNAL_LIBRARY_DIR=/AppleInternal/Library    export APPLE_INTERNAL_TOOLS=/AppleInternal/Developer/Tools    export APPLY_RULES_IN_COPY_FILES=NO    export ARCHS=i386    export ARCHS_STANDARD=x86_64    export ARCHS_STANDARD_32_64_BIT="x86_64 i386"    export ARCHS_STANDARD_32_BIT=i386    export ARCHS_STANDARD_64_BIT=x86_64    export ARCHS_STANDARD_INCLUDING_64_BIT=x86_64    export AVAILABLE_PLATFORMS="iphonesimulator macosx iphoneos"    export BUILD_COMPONENTS="headers build"    export BUILD_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export BUILD_ROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export BUILD_STYLE=    export BUILD_VARIANTS=normal    export BUILT_PRODUCTS_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin    export CACHE_ROOT=/var/folders/x6/17svhgds0x7889jbwj0rb4y80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CCHROOT=/var/folders/x6/17svhgds0x7889jbwj0rb4y80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CHMOD=/bin/chmod    export CHOWN=/usr/sbin/chown    export CLANG_CXX_LIBRARY=libstdc++    export CLASS_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/JavaClasses    export CLEAN_PRECOMPS=YES    export CLONE_HEADERS=NO    export CODESIGNING_FOLDER_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app    export CODE_SIGNING_ALLOWED=YES    export COLOR_DIAGNOSTICS=YES    export COMBINE_HIDPI_IMAGES=YES    export COMMAND_MODE=legacy    export COMPOSITE_SDK_DIRS=/var/folders/x6/17svhgds0x7889jbwj0rb4y80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/CompositeSDKs    export CONFIGURATION=Release    export CONFIGURATION_BUILD_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin    export CONFIGURATION_TEMP_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release    export CONTENTS_FOLDER_PATH=mesinslotcoba.app/Contents    export COPYING_PRESERVES_HFS_DATA=NO    export COPY_PHASE_STRIP=YES    export COPY_RESOURCES_FROM_STATIC_FRAMEWORKS=YES    export CP=/bin/cp    export CREATE_INFOPLIST_SECTION_IN_BINARY=NO    export CURRENT_ARCH=i386    export CURRENT_VARIANT=normal    export DEAD_CODE_STRIPPING=YES    export DEBUGGING_SYMBOLS=YES    export DEBUG_INFORMATION_FORMAT=dwarf    export DEFAULT_COMPILER=com.apple.compilers.llvm.clang.1_0    export DEFAULT_KEXT_INSTALL_PATH=/Library/Extensions    export DEPLOYMENT_LOCATION=NO    export DEPLOYMENT_POSTPROCESSING=NO    export DERIVED_FILES_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources    export DERIVED_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources    export DERIVED_SOURCES_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/DerivedSources    export DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export DEVELOPER_FRAMEWORKS_DIR=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_FRAMEWORKS_DIR_QUOTED=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export DEVELOPMENT_LANGUAGE=English    export DOCUMENTATION_FOLDER_PATH=mesinslotcoba.app/Contents/Resources/English.lproj/Documentation    export DO_HEADER_SCANNING_IN_JAM=NO    export DSTROOT=/tmp/mesinslotcoba.dst    export DT_TOOLCHAIN_DIR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    export DWARF_DSYM_FILE_NAME=mesinslotcoba.app.dSYM    export DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT=NO    export DWARF_DSYM_FOLDER_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin    export EMBEDDED_PROFILE_NAME=embedded.provisionprofile    export ENABLE_HEADER_DEPENDENCIES=YES    export EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS=".DS_Store .svn .git .hg CVS"    export EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES="*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    export EXECUTABLES_FOLDER_PATH=mesinslotcoba.app/Contents/Executables    export EXECUTABLE_FOLDER_PATH=mesinslotcoba.app/Contents/MacOS    export EXECUTABLE_NAME=mesinslotcoba    export EXECUTABLE_PATH=mesinslotcoba.app/Contents/MacOS/mesinslotcoba    export FILE_LIST=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects/LinkFileList    export FIXED_FILES_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/FixedFiles    export FRAMEWORKS_FOLDER_PATH=mesinslotcoba.app/Contents/Frameworks    export FRAMEWORK_FLAG_PREFIX=-framework    export FRAMEWORK_SEARCH_PATHS="/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin  \"/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/../../../libs/glut/lib/osx\""    export FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1="\"/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/../../../libs/glut/lib/osx\""    export FRAMEWORK_VERSION=A    export FULL_PRODUCT_NAME=mesinslotcoba.app    export GCC3_VERSION=3.3    export GCC_AUTO_VECTORIZATION=YES    export GCC_DYNAMIC_NO_PIC=NO    export GCC_ENABLE_SSE3_EXTENSIONS=YES    export GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS=YES    export GCC_GENERATE_DEBUGGING_SYMBOLS=YES    export GCC_INLINES_ARE_PRIVATE_EXTERN=NO    export GCC_MODEL_TUNING=NONE    export GCC_OPTIMIZATION_LEVEL=3    export GCC_PFE_FILE_C_DIALECTS="c objective-c c++ objective-c++"    export GCC_SYMBOLS_PRIVATE_EXTERN=NO    export GCC_TREAT_WARNINGS_AS_ERRORS=NO    export GCC_UNROLL_LOOPS=YES    export GCC_VERSION=com.apple.compilers.llvm.clang.1_0    export GCC_VERSION_IDENTIFIER=com_apple_compilers_llvm_clang_1_0    export GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS=YES    export GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO=NO    export GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL=NO    export GCC_WARN_UNINITIALIZED_AUTOS=NO    export GCC_WARN_UNUSED_VALUE=NO    export GCC_WARN_UNUSED_VARIABLE=NO    export GENERATE_MASTER_OBJECT_FILE=NO    export GENERATE_PKGINFO_FILE=YES    export GENERATE_PROFILING_CODE=NO    export GID=20    export GROUP=staff    export HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT=YES    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES=YES    export HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS=YES    export HEADERMAP_INCLUDES_PROJECT_HEADERS=YES    export HEADER_CAIRO="\"../../../libs/cairo/include/cairo\""    export HEADER_FMODEX="\"../../../libs/fmodex/include\""    export HEADER_FREEIMAGE="\"../../../libs/FreeImage/include\""    export HEADER_FREETYPE="\"../../../libs/freetype/include\""    export HEADER_FREETYPE2="\"../../../libs/freetype/include/freetype2\""    export HEADER_GLEW="\"../../../libs/glew/include\""    export HEADER_GLFW="\"../../../libs/glfw/include\""    export HEADER_OF="\"../../../libs/openFrameworks/**\""    export HEADER_POCO="\"../../../libs/poco/include\""    export HEADER_RTAUDIO="\"../../../libs/rtAudio/include\""    export HEADER_SEARCH_PATHS="/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/include \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    export HEADER_TESS2="\"../../../libs/tess2/include\""    export ICON=icon.icns    export ICONV=/usr/bin/iconv    export ICON_FILE=../../../libs/openFrameworksCompiled/project/osx/icon.icns    export ICON_FILE_PATH=../../../libs/openFrameworksCompiled/project/osx/    export ICON_NAME_DEBUG=icon-debug.icns    export ICON_NAME_RELEASE=icon.icns    export INFOPLIST_EXPAND_BUILD_SETTINGS=YES    export INFOPLIST_FILE=openFrameworks-Info.plist    export INFOPLIST_OUTPUT_FORMAT=same-as-input    export INFOPLIST_PATH=mesinslotcoba.app/Contents/Info.plist    export INFOPLIST_PREPROCESS=NO    export INFOSTRINGS_PATH=mesinslotcoba.app/Contents/Resources/English.lproj/InfoPlist.strings    export INSTALL_DIR=/tmp/mesinslotcoba.dst/Users/xcorex/Applications    export INSTALL_GROUP=staff    export INSTALL_MODE_FLAG=u+w,go-w,a+rX    export INSTALL_OWNER=xcorex    export INSTALL_PATH=/Users/xcorex/Applications    export INSTALL_ROOT=/tmp/mesinslotcoba.dst    export JAVAC_DEFAULT_FLAGS="-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    export JAVA_APP_STUB=/System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    export JAVA_ARCHIVE_CLASSES=YES    export JAVA_ARCHIVE_TYPE=JAR    export JAVA_COMPILER=/usr/bin/javac    export JAVA_FOLDER_PATH=mesinslotcoba.app/Contents/Resources/Java    export JAVA_FRAMEWORK_RESOURCES_DIRS=Resources    export JAVA_JAR_FLAGS=cv    export JAVA_SOURCE_SUBDIR=.    export JAVA_USE_DEPENDENCIES=YES    export JAVA_ZIP_FLAGS=-urg    export JIKES_DEFAULT_FLAGS="+E +OLDCSO"    export KEEP_PRIVATE_EXTERNS=NO    export LD_DEPENDENCY_INFO_FILE=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba_dependency_info.dat    export LD_GENERATE_MAP_FILE=NO    export LD_MAP_FILE_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/mesinslotcoba-LinkMap-normal-i386.txt    export LD_NO_PIE=NO    export LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER=YES    export LEGACY_DEVELOPER_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    export LEX=lex    export LIBRARY_FLAG_NOSPACE=YES    export LIBRARY_FLAG_PREFIX=-l    export LIBRARY_KEXT_INSTALL_PATH=/Library/Extensions    export LIBRARY_SEARCH_PATHS="/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin                                                              "    export LIB_CAIRO1="\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    export LIB_CAIRO2="\"../../../libs/cairo/lib/osx/cairo.a\""    export LIB_CAIRO3="\"../../../libs/cairo/lib/osx/pixman-1.a\""    export LIB_FMODEX="\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    export LIB_FREEIMAGE="\"../../../libs/FreeImage/lib/osx/freeimage.a\""    export LIB_FREETYPE="\"../../../libs/freetype/lib/osx/freetype.a\""    export LIB_GLEW="\"../../../libs/glew/lib/osx/glew.a\""    export LIB_GLFW="\"../../../libs/glfw/lib/osx/libglfw3.a\""    export LIB_GLUT="\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    export LIB_OPENSSL1="\"../../../libs/openssl/lib/osx/crypto.a\""    export LIB_OPENSSL2="\"../../../libs/openssl/lib/osx/ssl.a\""    export LIB_POCO_1="\"../../../libs/poco/lib/osx/PocoCrypto.a\""    export LIB_POCO_10="\"../../../libs/poco/lib/osx/PocoZip.a\""    export LIB_POCO_2="\"../../../libs/poco/lib/osx/PocoData.a\""    export LIB_POCO_3="\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    export LIB_POCO_4="\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    export LIB_POCO_5="\"../../../libs/poco/lib/osx/PocoFoundation.a\""    export LIB_POCO_6="\"../../../libs/poco/lib/osx/PocoNet.a\""    export LIB_POCO_7="\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    export LIB_POCO_8="\"../../../libs/poco/lib/osx/PocoUtil.a\""    export LIB_POCO_9="\"../../../libs/poco/lib/osx/PocoXML.a\""    export LIB_RTAUDIO="\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    export LIB_TESS="\"../../../libs/tess2/lib/osx/tess2.a\""    export LINKER_DISPLAYS_MANGLED_NAMES=NO    export LINK_FILE_LIST_normal_i386=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal/i386/mesinslotcoba.LinkFileList    export LINK_WITH_STANDARD_LIBRARIES=YES    export LOCALIZED_RESOURCES_FOLDER_PATH=mesinslotcoba.app/Contents/Resources/English.lproj    export LOCAL_ADMIN_APPS_DIR=/Applications/Utilities    export LOCAL_APPS_DIR=/Applications    export LOCAL_DEVELOPER_DIR=/Library/Developer    export LOCAL_LIBRARY_DIR=/Library    export MACH_O_TYPE=mh_execute    export MACOSX_DEPLOYMENT_TARGET=10.6    export MAC_OS_X_PRODUCT_BUILD_VERSION=13F1077    export MAC_OS_X_VERSION_ACTUAL=1095    export MAC_OS_X_VERSION_MAJOR=1090    export MAC_OS_X_VERSION_MINOR=0905    export NATIVE_ARCH=i386    export NATIVE_ARCH_32_BIT=i386    export NATIVE_ARCH_64_BIT=x86_64    export NATIVE_ARCH_ACTUAL=x86_64    export NO_COMMON=YES    export OBJECT_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects    export OBJECT_FILE_DIR_normal=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Objects-normal    export OBJROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export OF_CORE_HEADERS="\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    export OF_CORE_LIBS="\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\" \"../../../libs/FreeImage/lib/osx/freeimage.a\" \"../../../libs/freetype/lib/osx/freetype.a\""    export OF_PATH=../../..    export ONLY_ACTIVE_ARCH=NO    export OPTIMIZATION_LEVEL=0    export OS=MACOS    export OSAC=/usr/bin/osacompile    export OTHER_CPLUSPLUSFLAGS="-D__MACOSX_CORE__ -lpthread -mtune=native"    export OTHER_LDFLAGS="\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\" \"../../../libs/FreeImage/lib/osx/freeimage.a\" \"../../../libs/freetype/lib/osx/freetype.a\""    export PACKAGE_TYPE=com.apple.package-type.wrapper.application    export PASCAL_STRINGS=YES    export PATH="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/xcorex/.composer/vendor/bin:/Users/xcorex/Documents/Projects/Android/sdk/android-sdk-macosx/platform-tools:/Users/xcorex/Documents/Projects/Android/sdk/android-sdk-macosx/tools:/Applications/Postgres.app/Contents/Versions/9.3/bin:/Library/Frameworks/Python.framework/Versions/3.4/bin:/usr/local/git/bin:/Applications/AMPPS/php-5.5/bin:/usr/local/bin:/Users/manticore/Android/ant/bin:/Users/manticore/Android/sdk/platform-tools:/Users/manticore/Android/sdk/tools:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin"    export PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES="/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    export PBDEVELOPMENTPLIST_PATH=mesinslotcoba.app/Contents/pbdevelopment.plist    export PFE_FILE_C_DIALECTS=c++    export PKGINFO_FILE_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/PkgInfo    export PKGINFO_PATH=mesinslotcoba.app/Contents/PkgInfo    export PLATFORM_DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export PLATFORM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export PLATFORM_DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export PLATFORM_DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export PLATFORM_DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export PLATFORM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export PLATFORM_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    export PLATFORM_NAME=macosx    export PLATFORM_PREFERRED_ARCH=x86_64    export PLATFORM_PRODUCT_BUILD_VERSION=5B1008    export PLIST_FILE_OUTPUT_FORMAT=same-as-input    export PLUGINS_FOLDER_PATH=mesinslotcoba.app/Contents/PlugIns    export PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR=YES    export PRECOMP_DESTINATION_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/PrefixHeaders    export PRESERVE_DEAD_CODE_INITS_AND_TERMS=NO    export PRIVATE_HEADERS_FOLDER_PATH=mesinslotcoba.app/Contents/PrivateHeaders    export PRODUCT_NAME=mesinslotcoba    export PRODUCT_SETTINGS_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist    export PRODUCT_TYPE=com.apple.product-type.application    export PROFILING_CODE=NO    export PROJECT=mesinslotcoba    export PROJECT_DERIVED_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/DerivedSources    export PROJECT_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export PROJECT_FILE_PATH=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/mesinslotcoba.xcodeproj    export PROJECT_NAME=mesinslotcoba    export PROJECT_TEMP_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build    export PROJECT_TEMP_ROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export PUBLIC_HEADERS_FOLDER_PATH=mesinslotcoba.app/Contents/Headers    export RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS=YES    export REMOVE_CVS_FROM_RESOURCES=YES    export REMOVE_GIT_FROM_RESOURCES=YES    export REMOVE_HG_FROM_RESOURCES=YES    export REMOVE_SVN_FROM_RESOURCES=YES    export REZ_COLLECTOR_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/ResourceManagerResources    export REZ_OBJECTS_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/ResourceManagerResources/Objects    export REZ_SEARCH_PATHS="/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin "    export SCAN_ALL_SOURCE_FILES_FOR_INCLUDES=NO    export SCRIPTS_FOLDER_PATH=mesinslotcoba.app/Contents/Resources/Scripts    export SCRIPT_INPUT_FILE_COUNT=0    export SCRIPT_OUTPUT_FILE_COUNT=0    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk    export SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk    export SDK_NAME=macosx10.9    export SDK_PRODUCT_BUILD_VERSION=13C64    export SED=/usr/bin/sed    export SEPARATE_STRIP=NO    export SEPARATE_SYMBOL_EDIT=NO    export SET_DIR_MODE_OWNER_GROUP=YES    export SET_FILE_MODE_OWNER_GROUP=NO    export SHALLOW_BUNDLE=NO    export SHARED_DERIVED_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/DerivedSources    export SHARED_FRAMEWORKS_FOLDER_PATH=mesinslotcoba.app/Contents/SharedFrameworks    export SHARED_PRECOMPS_DIR=/var/folders/x6/17svhgds0x7889jbwj0rb4y80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders    export SHARED_SUPPORT_FOLDER_PATH=mesinslotcoba.app/Contents/SharedSupport    export SKIP_INSTALL=NO    export SOURCE_ROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export SRCROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    export STRINGS_FILE_OUTPUT_ENCODING=UTF-16    export STRIP_INSTALLED_PRODUCT=YES    export STRIP_STYLE=all    export SUPPORTED_PLATFORMS=macosx    export SYMROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export SYSTEM_ADMIN_APPS_DIR=/Applications/Utilities    export SYSTEM_APPS_DIR=/Applications    export SYSTEM_CORE_SERVICES_DIR=/System/Library/CoreServices    export SYSTEM_DEMOS_DIR=/Applications/Extras    export SYSTEM_DEVELOPER_APPS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export SYSTEM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export SYSTEM_DEVELOPER_DEMOS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    export SYSTEM_DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export SYSTEM_DEVELOPER_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    export SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    export SYSTEM_DEVELOPER_JAVA_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    export SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    export SYSTEM_DEVELOPER_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    export SYSTEM_DEVELOPER_TOOLS=/Applications/Xcode.app/Contents/Developer/Tools    export SYSTEM_DEVELOPER_TOOLS_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    export SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    export SYSTEM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export SYSTEM_DEVELOPER_UTILITIES_DIR=/Applications/Xcode.app/Contents/Developer/Applications/Utilities    export SYSTEM_DOCUMENTATION_DIR=/Library/Documentation    export SYSTEM_KEXT_INSTALL_PATH=/System/Library/Extensions    export SYSTEM_LIBRARY_DIR=/System/Library    export TARGETNAME=mesinslotcoba    export TARGET_BUILD_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin    export TARGET_NAME=mesinslotcoba    export TARGET_TEMP_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build    export TEMP_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build    export TEMP_FILES_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build    export TEMP_FILE_DIR=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build    export TEMP_ROOT=/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build    export TOOLCHAINS=com.apple.dt.toolchain.XcodeDefault    export UID=502    export UNLOCALIZED_RESOURCES_FOLDER_PATH=mesinslotcoba.app/Contents/Resources    export UNSTRIPPED_PRODUCT=NO    export USER=xcorex    export USER_APPS_DIR=/Users/xcorex/Applications    export USER_LIBRARY_DIR=/Users/xcorex/Library    export USE_DYNAMIC_NO_PIC=YES    export USE_HEADERMAP=YES    export USE_HEADER_SYMLINKS=NO    export VALIDATE_PRODUCT=NO    export VALID_ARCHS="i386 x86_64"    export VERBOSE_PBXCP=NO    export VERSIONPLIST_PATH=mesinslotcoba.app/Contents/version.plist    export VERSION_INFO_BUILDER=xcorex    export VERSION_INFO_FILE=mesinslotcoba_vers.c    export VERSION_INFO_STRING="\"@(#)PROGRAM:mesinslotcoba  PROJECT:mesinslotcoba-\""    export WRAPPER_EXTENSION=app    export WRAPPER_NAME=mesinslotcoba.app    export WRAPPER_SUFFIX=.app    export XCODE_APP_SUPPORT_DIR=/Applications/Xcode.app/Contents/Developer/Library/Xcode    export XCODE_PRODUCT_BUILD_VERSION=5B1008    export XCODE_VERSION_ACTUAL=0511    export XCODE_VERSION_MAJOR=0500    export XCODE_VERSION_MINOR=0510    export XPCSERVICES_FOLDER_PATH=mesinslotcoba.app/Contents/XPCServices    export YACC=yacc    export arch=i386    export diagnostic_message_length=80    export variant=normal    /bin/sh -c /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/build/mesinslotcoba.build/Release/mesinslotcoba.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"5885FBDC-A9FF-4235-9547-F5D40F36BDE1-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CProcessInfoPlistFile /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Info.plist /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist
+s456219275.065554
+e456219275.067436
+r1
+xProcessInfoPlistFile
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Info.plist
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Process /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist104"[1mProcessInfoPlistFile[0m bin/mesinslotcoba.app/Contents/Info.plist [1mopenFrameworks-Info.plist[0ma4e1108b5a31bb41^5b43118b5a31bb41^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist0000000000000000^685"[1mProcessInfoPlistFile[0m bin/mesinslotcoba.app/Contents/Info.plist [1mopenFrameworks-Info.plist[0m    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    builtin-infoPlistUtility /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/openFrameworks-Info.plist -genpkginfo /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app/Contents/Info.plist36"7AAF1BA7-FB0E-4F9E-87AD-FDE39DE8EF24-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
+CTouch /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app
+s456219277.473497
+e456219277.627943
+r1
+xTouch
+x/Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Touch /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app35"[1mTouch[0m bin/mesinslotcoba.app8142798d5a31bb41^e7c2a08d5a31bb41^---0#0#1#--279"[1mTouch[0m bin/mesinslotcoba.app    cd /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba    /usr/bin/touch -c /Users/xcorex/Documents/Projects/OpenFrameworks/of_v0.8.4_osx_release/apps/myApps/mesinslotcoba/bin/mesinslotcoba.app36"290126B0-0998-4B63-920A-396AC9E2EF4A-
+bE9BEB82E-1BD8-425F-98FB-1BB76707088D
+
